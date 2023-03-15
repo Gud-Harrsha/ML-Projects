@@ -1,2 +1,2 @@
 # ML-Project
-This project is done to improve my knowledge about Data Sciene
+I have done the above projects to improve my knowledge about Data Science.
